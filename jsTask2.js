@@ -24,7 +24,7 @@ function interestCalculator(Data){
 }
 
 data = [{principal:2500 , time: 1.8 },{principal: 1000 , time: 5 },{principal: 3000 , time: 1},{principal: 2000, time: 3 }]
-DATA = interestCalculator(data)
+interestCalculator(data)
 /*for (i=0; i < DATA.length; i ++ ){
     document.write(DATA[i].principal, DATA[i].time, DATA[i].rate, DATA[i].interest)
 }*/
