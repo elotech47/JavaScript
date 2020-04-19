@@ -34,5 +34,5 @@ function NumberDivisionCheck(num) {
     return output;
 }
 
-//NumberDivisionCheck(100)
 NumberDivisionCheck(100)
+NumberDivisionCheck(47)
